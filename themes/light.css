@@ -1,5 +1,5 @@
 body {
-  background: #2464b4;
+  background: #fafafa;
 }
 
 #header {
@@ -11,11 +11,11 @@ body {
 }
 
 #right-wing {
-  color: #10a000;
+  color: #1a1a1a;
 }
 
 #typing-area, #theme-area {
-  background: #000000;
+  background: #eaeaea;
 }
 
 #text-display {
